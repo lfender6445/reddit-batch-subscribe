@@ -1,0 +1,2 @@
+praw==6.4.0
+python-dotenv==0.7.1
